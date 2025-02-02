@@ -58,11 +58,10 @@ header h1 {
   padding: 0 auto;
 }
 .small {
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   font-family: 'LATO' SANS-SERIF;
   font-weight: 900;
-  font-size: 80%;
+  font-size:100%;
 }
 /*-- Article Styles--*/
 article {
