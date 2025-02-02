@@ -61,7 +61,6 @@ header h1 {
 .small {
   margin: 0 auto;
   font-family: 'Lato', sans-serif;
-  text-transform: capitalize;
   font-weight: 900;
   font-size:100%;
 }
@@ -75,6 +74,7 @@ article {
 }
 article figure {
   width: 39%;
+  float: right;
   margin: 0 0 1.25em 1.25em;
 }
 article figcaption {
