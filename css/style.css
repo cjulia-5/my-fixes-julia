@@ -78,8 +78,8 @@ article figure {
   margin: 0 0 1.25em 1.25em;
 }
 article figcaption {
-  font-family:Georgia, 'Times New Roman', Times, serif;
-  font-weight: 500;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 200;
   font-size: 70%;
 }
 .pagination {
