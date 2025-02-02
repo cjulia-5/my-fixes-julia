@@ -45,8 +45,8 @@ nav a.active {
 /*-- Hero Unit Styles--*/
 header.center {
   width: 510px;
-  margin-top: 255px auto;
-  margin-bottom: 255px auto;
+  margin-left: 255px auto;
+  margin-right: 255px auto;
 }
 header img {
   width: 100%;
