@@ -73,8 +73,8 @@ article figcaption {
   font-size: inherit;
 }
 .pagination {
-  margin-top: 2em;
-  margin-bottom: 2em;
+  margin-left: auto;
+  margin-right: auto;
   width: 96%;
 }
 a.button {
