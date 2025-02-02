@@ -53,13 +53,15 @@ header img {
   margin: 0 auto;
 }
 header h1 {
+  width: 510px;
   margin-left: auto;
   margin-right: auto;
   padding: 0 auto;
 }
 .small {
   margin: 0 auto;
-  font-family: 'LATO' SANS-SERIF;
+  text-transform: capitalize;
+  font-family: 'Lato' sans-serif;
   font-weight: 900;
   font-size:100%;
 }
