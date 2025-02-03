@@ -51,13 +51,11 @@ header {
 header img {
   width: 100%;
   margin: 0 auto;
-  text-align: center;
 }
 header h1 {
   width: 510px;
-  margin-left: auto;
-  margin-right: auto;
   padding: 0 auto;
+  text-align: center;
 }
 .small {
   margin: 0 auto;
