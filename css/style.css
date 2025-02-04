@@ -114,7 +114,8 @@ a.button:hover, a.button:active {
   article {width: 96%;}
 }
 .dropcap {
-  font-size: 4em;
+  font-size: 5em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   float: left;
   margin-right: 0.2em;
 }
