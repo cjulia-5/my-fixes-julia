@@ -113,9 +113,9 @@ a.button:hover, a.button:active {
   header {width: 96%;}
   article {width: 96%;}
 }
-.dropcap {
-  font-size: 4.5em;
+.drop-cap {
+  font-size: 3em;
   float: left;
-  float: center;
+  line-height: 1;
   margin-right: 0.2em;
 }
