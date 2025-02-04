@@ -81,6 +81,9 @@ article figure {
   float: right;
   margin: 0 0 1.25em 1.25em;
 }
+span.dropcap{
+  font-size:large
+}
 article figcaption {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-weight: 200;
