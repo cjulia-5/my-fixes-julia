@@ -23,14 +23,14 @@ p {
   margin-bottom: .67em;
 }
 nav, footer {
-  background-color: #444444;
+  background-color: #a68a6d;
 }
 footer {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
   padding: .25em;
-  color: #9a7f7f;
+  color: #a68a6d;
 }
 /*-- Main Menu Styles--*/
 nav ul {
