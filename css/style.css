@@ -16,11 +16,8 @@ body {
   font-family: 'Gentium Book Plus', serif;
 }
 body {
-  background-image: url('vintage-paper-background'); /* Replace with your image */
-  background-size: cover; /* Covers the entire screen */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed; /* Keeps it in place when scrolling */
+  background: linear-gradient(to bottom, #f4e9d7, #e3cba6); /* Beige tones */
+  background-size: cover;
 }
 p {
   margin-bottom: .67em;
