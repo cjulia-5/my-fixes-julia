@@ -36,15 +36,15 @@ nav ul {
   padding: 1em;
 }
 nav a:link, nav a:visited {
-  color: #9a7f7f;
+  color: #D0D0D0;
   text-decoration: none;
 }
 nav a:hover, nav a:active  {
-  color: #9a7f7f;
+  color: #F0F0F0;
   text-decoration: underline;
 }
 nav a.active {
-  color: #9a7f7f;
+  color: #F0F0F0;
 }
 /*-- Hero Unit Styles--*/
 header {
@@ -113,9 +113,15 @@ a.button:hover, a.button:active {
   header {width: 96%;}
   article {width: 96%;}
 }
+.eagle-lake-regular {
+  font-family: "Eagle Lake", serif;
+  font-weight: 400;
+  font-style: normal;
+}
 .dropcap {
   font-size: 4.5em;
   float: left;
   line-height: .75;
   margin-right: 0.2em;
-}
+  font-family: "Eagle Lake", serif;
+  }
