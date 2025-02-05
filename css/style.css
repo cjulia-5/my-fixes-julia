@@ -26,7 +26,7 @@ footer {
   margin-right: auto;
   text-align: center;
   padding: .25em;
-  color: #D0D0D0;
+  color: #9a7f7f;
 }
 /*-- Main Menu Styles--*/
 nav ul {
@@ -36,15 +36,15 @@ nav ul {
   padding: 1em;
 }
 nav a:link, nav a:visited {
-  color: #D0D0D0;
+  color: #9a7f7f;
   text-decoration: none;
 }
 nav a:hover, nav a:active  {
-  color: #F0F0F0;
+  color: #9a7f7f;
   text-decoration: underline;
 }
 nav a.active {
-  color: #F0F0F0;
+  color: #9a7f7f;
 }
 /*-- Hero Unit Styles--*/
 header {
