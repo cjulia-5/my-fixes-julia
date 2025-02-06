@@ -47,7 +47,7 @@ nav a:hover, nav a:active  {
   text-decoration: underline;
 }
 nav a.active {
-  color: #F0F0F0;
+  color: #000000;
 }
 /*-- Hero Unit Styles--*/
 header {
