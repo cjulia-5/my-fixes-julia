@@ -111,7 +111,7 @@ a.button {
 a.button:hover, a.button:active {
   border: 1px solid #444;
   text-decoration: none;
-  color: #222;
+  color: #F0F0F0;
 }
 /*-- changes header and article width on small screens --*/
 @media screen and (max-width: 768px) {
