@@ -95,6 +95,7 @@ article figcaption {
   margin-bottom: auto;
   display: flex;
   justify-content: space-evenly;
+  padding: 15px;
   width: 96%;
 }
 a.button {
